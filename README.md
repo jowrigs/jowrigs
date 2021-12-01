@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jowrigs
-- 👀 I’m interested in Web3, IPFS, ENS
-- 🌱 I’m currently learning Web3, IPFS, ENS
-- 💞️ I’m self-educating on Web3, IPFS, ENS and how GitHub works
+- 👀 I’m interested in coding and how GitHub works
 
 
 <!---
