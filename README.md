@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jowrigs
-- 👀 I’m interested in coding and how GitHub works
-
 
 <!---
 jowrigs/jowrigs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
